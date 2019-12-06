@@ -25,7 +25,7 @@ public class TriggerOutside : MonoBehaviour
             {
                 audioOutSide = true;
 
-                Audio.volume = 0.2f;
+                Audio.volume = 0.2f;//
                 
 
                 Audio.clip = Resources.Load<AudioClip>("Alarmm2");

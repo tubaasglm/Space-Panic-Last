@@ -21,6 +21,11 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
     Unity.Timeline.dll:
     - UnityEngine.Timeline.AnimationTrack
     - UnityEngine.Timeline.MarkerTrack
@@ -56,6 +61,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
     - Class: 64
@@ -82,54 +89,64 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
+    - Class: 109
+      Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9682}
+      Script: {instanceID: 9724}
     - Class: 114
-      Script: {instanceID: 9742}
+      Script: {instanceID: 9784}
     - Class: 114
-      Script: {instanceID: 9792}
+      Script: {instanceID: 9834}
     - Class: 114
-      Script: {instanceID: 9888}
+      Script: {instanceID: 9930}
     - Class: 114
-      Script: {instanceID: 9938}
+      Script: {instanceID: 9980}
     - Class: 114
-      Script: {instanceID: 10070}
+      Script: {instanceID: 10112}
     - Class: 114
-      Script: {instanceID: 10130}
+      Script: {instanceID: 10172}
     - Class: 114
-      Script: {instanceID: 10156}
+      Script: {instanceID: 10198}
     - Class: 114
-      Script: {instanceID: 10414}
+      Script: {instanceID: 10456}
     - Class: 114
-      Script: {instanceID: 10562}
+      Script: {instanceID: 10490}
     - Class: 114
-      Script: {instanceID: 10700}
+      Script: {instanceID: 10604}
     - Class: 114
-      Script: {instanceID: 10866}
+      Script: {instanceID: 10742}
     - Class: 114
-      Script: {instanceID: 10874}
+      Script: {instanceID: 10908}
     - Class: 114
-      Script: {instanceID: 10904}
+      Script: {instanceID: 10916}
     - Class: 114
-      Script: {instanceID: 10928}
+      Script: {instanceID: 10946}
     - Class: 114
-      Script: {instanceID: 11246}
+      Script: {instanceID: 10970}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 11198}
     - Class: 114
-      Script: {instanceID: 11452}
+      Script: {instanceID: 11216}
     - Class: 114
-      Script: {instanceID: 11510}
+      Script: {instanceID: 11288}
     - Class: 114
-      Script: {instanceID: 11518}
+      Script: {instanceID: 11448}
     - Class: 114
-      Script: {instanceID: 11628}
+      Script: {instanceID: 11494}
     - Class: 114
-      Script: {instanceID: 11816}
+      Script: {instanceID: 11552}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11560}
     - Class: 114
-      Script: {instanceID: 11968}
+      Script: {instanceID: 11670}
+    - Class: 114
+      Script: {instanceID: 11696}
+    - Class: 114
+      Script: {instanceID: 11858}
+    - Class: 114
+      Script: {instanceID: 11950}
+    - Class: 114
+      Script: {instanceID: 12010}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -990,4 +1007,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Sci-Fi Styled Modular Pack/Scenes/Desert Roumi.unity
-  playerPath: E:/spacepanic-master/PSD-last/SoundDesignLab.exe
+  playerPath: E:/spacepanic-master/PSD-last/Space-Panic-Last/Space Panic/SoundDesignLab.exe
