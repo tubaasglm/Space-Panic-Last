@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{DC2C5C71-8354-6ABA-AF39-410AD2356993}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LaunchGame.cs">
+    <Files>
+      <File FileName="Assets/LaunchGame.cs" Line="8" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoundDesignLab" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Sci-Fi Styled Modular Pack" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Characters" expanded="True">
+                  <Node name="FirstPersonCharacter" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="LaunchGame.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6f950635-3c17-49f4-8a4b-b7f4ab18c6b8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

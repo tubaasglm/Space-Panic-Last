@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a946988bb1f1fa046be91e1a7fdf61ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Orbitron
+  fontNames:
+  - Orbitron
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a7dfe9980f65aea4cba8cf0e133f38b2, type: 3}
+  - {fileID: 12800000, guid: 95e8832aaddc3f348b0765e6b95eab7f, type: 3}
+  - {fileID: 12800000, guid: 6b7b307bf2e5b334fb376534ba265c84, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
